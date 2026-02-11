@@ -2,8 +2,6 @@
 
 ### A passionate developer
 
-- 🔭 I'm currently working on **a website for elevator parts search**
-
 - 🌱 I'm currently learning **NextJs**
 
 - 🎮 Unity game developer | Flutter mobile apps 
